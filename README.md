@@ -1,2 +1,2 @@
-# Inventory-Management-System \n
+# Inventory-Management-System
 Author - Bikash Bashyal
